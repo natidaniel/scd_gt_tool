@@ -44,7 +44,6 @@ In addition, it gives a tool for annotating images, for generating semantic maps
     - label_names.txt: Label names for values in label.png.
 5. For drawing labled image, use: labelme_draw_label_png 000000000555_json_dir/label.png
 
-* Demo video is located in Tutorial dir
 
 # Acknowledgement:
 
