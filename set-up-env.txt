@@ -1,0 +1,12 @@
+# Requirements:
+1. Ubuntu
+2. Python3
+
+
+# Installation via Anaconda:
+1. conda create --name=labelme python=3.6
+2. conda activate labelme
+3. conda install -c conda-forge pyside2
+4. conda install pyqt
+5. conda install labelme -c conda-forge
+6. export PYTHONPATH="./"
